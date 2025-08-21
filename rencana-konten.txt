@@ -3,5 +3,6 @@ RENCANA KONTEN
   *django
   *Odoo
 - Javascript
+  * framework
 - Java
 - Golang
