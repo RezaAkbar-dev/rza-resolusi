@@ -1,0 +1,5 @@
+RENCANA KONTEN
+- python
+- Javascript
+- Java
+- Golang
