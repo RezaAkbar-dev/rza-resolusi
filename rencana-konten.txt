@@ -3,6 +3,8 @@ RENCANA KONTEN
   *django
   *Odoo
 - Javascript
-  * framework
+  *Dasar
 - Java
-- Golang
+- Rust
+- PHP
+ *laravel
