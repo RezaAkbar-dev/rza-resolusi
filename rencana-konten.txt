@@ -1,0 +1,7 @@
+RENCANA KONTEN
+- python
+  *django
+  *Odoo
+- Javascript
+- Java
+- Golang
