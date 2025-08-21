@@ -2,7 +2,9 @@ RENCANA KONTEN
 - python
   *django
   *Odoo
+    -modul custom baru
 - Javascript
   * framework
 - Java
 - Golang
+- PHP
